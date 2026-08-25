@@ -2,7 +2,7 @@
 
 ## Dataset summary
 
-This release contains derived narrative feature measurements, a controlled rewriting taskset, reliability measurements, and provenance metadata for a 10-film screenplay research corpus. Full screenplay text is intentionally excluded.
+This release contains derived narrative feature measurements, a controlled rewriting taskset, and provenance metadata for a 10-film screenplay research corpus. Full screenplay text is intentionally excluded.
 
 ## Dataset composition
 
@@ -16,10 +16,6 @@ This release contains derived narrative feature measurements, a controlled rewri
 | TasksetV5 tasks | 240 |
 | Base intervals | 48 |
 | Directed pairs | 24 |
-| Reliability scenes | 100 |
-| Reliability repeats | 5 |
-| Reliability measurements | 500 |
-| Valid reliability measurements | 500 |
 
 ## Narrative features
 
@@ -56,7 +52,6 @@ The public data are intended for reproducibility, audit, benchmarking, and analy
 1. Feature annotations are model-based measurements, not human ground-truth labels.
 2. The 10-film set is a controlled experimental corpus, not a representative sample of all screenplays.
 3. Reconstructing the original cleaned screenplay inputs requires users to obtain source text separately under applicable provider/rightsholder terms.
-4. Reliability was measured for the specified Qwen2.5-7B Q4_K_M measurement configuration and should not automatically be generalized to other evaluators.
 
 ## Excluded material
 

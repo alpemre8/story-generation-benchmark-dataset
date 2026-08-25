@@ -27,11 +27,6 @@ if len(pairs)!=24: fail('directed pair count != 24')
 if len({tuple(sorted(x.split('->'))) for x in pairs})!=12: fail('unordered pair count != 12')
 if Counter(x['feature_axis'] for x in t['tasks']) != Counter({k:48 for k in features}): fail('feature balance mismatch')
 if Counter(x['interval_type'] for x in t['tasks']) != Counter({'short':80,'medium':80,'long':80}): fail('interval balance mismatch')
-# reliability
-s=json.loads((ROOT/'data/reliability/sample_100_seed42.json').read_text())
-r=json.loads((ROOT/'data/reliability/measurements_100x5_seed42.json').read_text())
-if len(s)!=100 or len({(x['film_id'],x['scene_id']) for x in s})!=100: fail('reliability sample mismatch')
-if r['request_count']!=500 or r['valid_count']!=500 or len(r['rows'])!=500: fail('reliability measurement count mismatch')
 # provenance
 with (ROOT/'metadata/source_provenance.csv').open(encoding='utf-8') as f: prov=list(csv.DictReader(f))
 if len(prov)!=10 or sum(int(x['cleaned_scene_count']) for x in prov)!=938 or sum(int(x['source_scene_count']) for x in prov)!=1101: fail('provenance counts mismatch')
@@ -55,4 +50,4 @@ if errors:
     for e in errors: print(' -',e)
     sys.exit(1)
 print('PUBLIC RELEASE VALIDATION: PASS')
-print(' films=10 scenes=938 features=5 tasks=240 intervals=48 reliability=500/500')
+print(' films=10 scenes=938 features=5 tasks=240 intervals=48')

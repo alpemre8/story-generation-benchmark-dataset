@@ -4,7 +4,7 @@ Public, screenplay-text-free release of the data artifacts used by a feature-cur
 
 ## Release snapshot
 
-- **Version:** 1.0.0 (2026-08-25)
+- **Version:** 1.0.1 (2026-08-25)
 - **Film set:** `current_10_films_balanced_v1`
 - **Films:** 10
 - **Cleaned experimental scenes:** 938
@@ -13,7 +13,6 @@ Public, screenplay-text-free release of the data artifacts used by a feature-cur
 - **TasksetV5:** 240 controlled rewriting tasks
 - **Base intervals:** 48
 - **Directed film pairs:** 24 (12 unordered pairs, evaluated bidirectionally)
-- **Reliability study:** 100 scenes × 5 repeated measurements = 500 measurements; 500 valid
 
 ## Important: screenplay text is not distributed
 
@@ -66,7 +65,6 @@ A duplicate scan over the cleaned 938-scene corpus found zero duplicate groups u
 │   ├── corpus/                 # film IDs, counts, cleaned-input hashes
 │   ├── features/               # 938 portable per-scene feature rows
 │   ├── taskset_v5/             # 240 tasks + 48 base intervals + validation
-│   └── reliability/            # 100-scene sample, 500 measurements, summary
 ├── instrument/                 # exact feature prompt/schema + sanitized protocol config
 ├── metadata/                   # provenance, definitions, manifests, preprocessing audit
 ├── preprocessing/              # deterministic reconstruction specification
@@ -107,18 +105,6 @@ Key balances:
 - 48 tasks per feature axis
 - 80 short / 80 medium / 80 long tasks
 - canonical runtime structure SHA-256: `sha256:840aafe93408d41f3ef2e8fe791b0401ce52008060031a58aa46e4e28944bcdb`
-
-## Reliability
-
-The reliability experiment sampled 100 unique scenes (10 per film) using seed 42 and measured each scene five times.
-
-| Feature | Exact scene agreement | Mean abs. repeated deviation | Max deviation | Repeat1–Repeat2 Spearman | ICC(3,1) |
-|---|---:|---:|---:|---:|---:|
-| pacing | 0.97 | 0.00128 | 0.08 | 0.9910 | 0.99735 |
-| dialogue_density | 0.95 | 0.00272 | 0.16 | 0.9964 | 0.99701 |
-| action_density | 0.97 | 0.00128 | 0.08 | 0.9965 | 0.99878 |
-| character_interaction | 0.96 | 0.00272 | 0.24 | 0.9915 | 0.99664 |
-| emotion_intensity | 0.98 | 0.00096 | 0.06 | 0.9988 | 0.99881 |
 
 ## Reconstructing the cleaned input corpus
 

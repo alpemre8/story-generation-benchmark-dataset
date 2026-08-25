@@ -2,7 +2,7 @@
 
 ## Scope of this public release
 
-This repository intentionally does **not** redistribute full screenplay text. It contains identifiers, hashes, provenance metadata, derived scalar feature measurements, benchmark/task metadata, reliability measurements, and research instrumentation.
+This repository intentionally does **not** redistribute full screenplay text. It contains identifiers, hashes, provenance metadata, derived scalar feature measurements, benchmark/task metadata, and research instrumentation.
 
 ## Third-party screenplay material
 
@@ -16,6 +16,6 @@ The release records immutable historical STAGE_v0 commit IDs, STAGE movie IDs, p
 
 ## License scope
 
-No blanket license is asserted here over third-party screenplay content. This v1.0.0 repository also does not impose a new open-data license on the derived artifacts. If an explicit license is selected for a later archival release, it should clearly exclude all third-party screenplay material and trademarks and should preserve this notice.
+No blanket license is asserted here over third-party screenplay content. This v1.0.1 repository also does not impose a new open-data license on the derived artifacts. If an explicit license is selected for a later archival release, it should clearly exclude all third-party screenplay material and trademarks and should preserve this notice.
 
 This notice is a project-level rights statement, not legal advice.

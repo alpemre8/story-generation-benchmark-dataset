@@ -1,6 +1,6 @@
 {
   "dataset_id": "story-generation-benchmark-dataset",
-  "release_version": "1.0.0",
+  "release_version": "1.0.1",
   "release_date": "2026-08-25",
   "film_set_id": "current_10_films_balanced_v1",
   "film_count": 10,
@@ -15,10 +15,6 @@
   "base_interval_count": 48,
   "directed_pair_count": 24,
   "unordered_pair_count": 12,
-  "reliability_sample_scene_count": 100,
-  "reliability_repeats": 5,
-  "reliability_measurement_count": 500,
-  "reliability_valid_count": 500,
   "upstream": {
     "repository": "roytian1992/STAGE_v0",
     "primary_historical_script_snapshot": "ce4468eac15775a85e5cd3a2e7255d96ff1afb45",
@@ -37,10 +33,6 @@
     },
     "registry_runtime_zip": {
       "sha256": "sha256:f4f239e6aca638a1aececa0d85762ffa9f107b2e211ada20c0d8b097ee3f3362",
-      "publicly_included_as_original_zip": false
-    },
-    "reliability_runtime_zip": {
-      "sha256": "sha256:96e9f21493f52ee90b27cfa0dba8299cbdeece8599f60ad365c72a6439fb53c0",
       "publicly_included_as_original_zip": false
     }
   },
