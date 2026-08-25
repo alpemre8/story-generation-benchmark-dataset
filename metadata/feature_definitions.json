@@ -1,0 +1,41 @@
+{
+  "feature_count": 5,
+  "scale": "continuous [0,1]",
+  "features": {
+    "pacing": {
+      "range": [
+        0.0,
+        1.0
+      ],
+      "description": "Narrative speed, event progression, and momentum."
+    },
+    "dialogue_density": {
+      "range": [
+        0.0,
+        1.0
+      ],
+      "description": "Proportion and importance of spoken dialogue."
+    },
+    "action_density": {
+      "range": [
+        0.0,
+        1.0
+      ],
+      "description": "Physical action, external events, movement, confrontation, or concrete incident density."
+    },
+    "character_interaction": {
+      "range": [
+        0.0,
+        1.0
+      ],
+      "description": "Density and centrality of character-to-character exchange, conflict, cooperation, or relational movement."
+    },
+    "emotion_intensity": {
+      "range": [
+        0.0,
+        1.0
+      ],
+      "description": "Affective intensity, tension, distress, intimacy, anger, fear, joy, or dramatic emotional charge."
+    }
+  }
+}

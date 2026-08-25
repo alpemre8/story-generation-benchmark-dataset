@@ -1,0 +1,33 @@
+{
+  "valid": true,
+  "release_validation_version": "1.0",
+  "checks": {
+    "task_count_240": true,
+    "unique_task_ids": true,
+    "base_interval_count_48": true,
+    "directed_pair_count_24": true,
+    "unordered_pair_count_12": true,
+    "feature_balance_48_each": true,
+    "interval_balance_80_each": true,
+    "canonical_structure_sha256_preserved": true
+  },
+  "structure_sha256": "sha256:840aafe93408d41f3ef2e8fe791b0401ce52008060031a58aa46e4e28944bcdb",
+  "feature_counts": {
+    "pacing": 48,
+    "emotion_intensity": 48,
+    "dialogue_density": 48,
+    "action_density": 48,
+    "character_interaction": 48
+  },
+  "interval_counts": {
+    "short": 80,
+    "medium": 80,
+    "long": 80
+  },
+  "difficulty_counts": {
+    "medium": 196,
+    "low": 18,
+    "high": 26
+  },
+  "note": "Filesystem path checks from the private runtime bundle are intentionally omitted from the public portable release."
+}

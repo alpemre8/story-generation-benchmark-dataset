@@ -1,0 +1,55 @@
+{
+  "dataset_id": "story-generation-benchmark-dataset",
+  "release_version": "1.0.0",
+  "release_date": "2026-08-25",
+  "film_set_id": "current_10_films_balanced_v1",
+  "film_count": 10,
+  "cleaned_scene_count": 938,
+  "upstream_historical_scene_count": 1101,
+  "feature_set_id": "fs_qwen25_7b_q4km_mc1_1_fev1_4_current_10_films_balanced_v1",
+  "feature_count": 5,
+  "feature_row_count": 938,
+  "feature_measurement_failures": 0,
+  "taskset_id": "tasksetv5__fs_qwen25_7b_q4km_mc1_1_fev1_4_current_10_films_balanced_v1",
+  "task_count": 240,
+  "base_interval_count": 48,
+  "directed_pair_count": 24,
+  "unordered_pair_count": 12,
+  "reliability_sample_scene_count": 100,
+  "reliability_repeats": 5,
+  "reliability_measurement_count": 500,
+  "reliability_valid_count": 500,
+  "upstream": {
+    "repository": "roytian1992/STAGE_v0",
+    "primary_historical_script_snapshot": "ce4468eac15775a85e5cd3a2e7255d96ff1afb45",
+    "repair_commit": "9abbdffd280da0a625411b67c2eae8dfcdd846e4",
+    "last_verified_pre_removal_snapshot": "d902abfa51bf71ac10f53313a7add8b6ad5b1092",
+    "script_removal_transition_commit": "809ea665783879da77f4f30bf7f5be771525f514"
+  },
+  "original_runtime_artifacts": {
+    "feature_set_runtime_zip": {
+      "sha256": "sha256:19771bbc3e55b56141359493a1d95236587c354347ad4c391555d59f8b250b5c",
+      "publicly_included_as_original_zip": false
+    },
+    "taskset_v5_runtime_zip": {
+      "sha256": "sha256:5dd6af38381df26bf14408ab0832d0a2488eec7b1ba771c7212f7cc6d82dc513",
+      "publicly_included_as_original_zip": false
+    },
+    "registry_runtime_zip": {
+      "sha256": "sha256:f4f239e6aca638a1aececa0d85762ffa9f107b2e211ada20c0d8b097ee3f3362",
+      "publicly_included_as_original_zip": false
+    },
+    "reliability_runtime_zip": {
+      "sha256": "sha256:96e9f21493f52ee90b27cfa0dba8299cbdeece8599f60ad365c72a6439fb53c0",
+      "publicly_included_as_original_zip": false
+    }
+  },
+  "excluded_content": [
+    "full screenplay text",
+    "raw script.json files",
+    "measurement_cache_v4.json",
+    "request telemetry JSONL",
+    "absolute local filesystem paths",
+    "localhost/server endpoint data"
+  ]
+}

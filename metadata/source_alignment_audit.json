@@ -1,0 +1,13 @@
+{
+  "historical_stage_snapshot": "ce4468eac15775a85e5cd3a2e7255d96ff1afb45",
+  "source_scene_count_total": 1101,
+  "cleaned_scene_count_total": 938,
+  "removed_scene_records_total": 163,
+  "duplicate_scan": {
+    "cleaned_corpus_scene_count": 938,
+    "exact_duplicate_groups": 0,
+    "whitespace_normalized_duplicate_groups": 0,
+    "aggressively_normalized_duplicate_groups": 0
+  },
+  "interpretation": "The 163-record reduction is fully accounted for by Chasing Amy (34), Dog Day Afternoon (69), and Apocalypse Now (60). Other films retain the historical scene count; White Ribbon only removes non-screenplay footer material, and two files differ only by EOF serialization newline."
+}

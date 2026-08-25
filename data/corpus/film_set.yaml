@@ -1,0 +1,15 @@
+film_set_id: current_10_films_balanced_v1
+purpose: Canonical 10-film corpus used by Feature Extraction V1.4 and TasksetV5.
+film_count: 10
+cleaned_scene_count: 938
+films:
+- chasing_amy
+- ghostbusters_ii
+- the_private_life_of_sherlock_holmes
+- dog_day_afternoon
+- apocalypse_now
+- drag_me_to_hell
+- up_2009
+- darkman
+- do_the_right_thing
+- the_white_ribbon

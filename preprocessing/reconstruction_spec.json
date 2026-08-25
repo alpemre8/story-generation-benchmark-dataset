@@ -1,0 +1,61 @@
+{
+  "input": "Historical STAGE_v0 English/<stage_movie_id>/script.json from commit ce4468eac15775a85e5cd3a2e7255d96ff1afb45",
+  "serialization": "UTF-8 JSON, ensure_ascii=false, indent=2; trailing LF only where specified.",
+  "operations": {
+    "chasing_amy": {
+      "retain_first_n_records": 34,
+      "trailing_lf": true
+    },
+    "ghostbusters_ii": {
+      "retain_all_records": true,
+      "trailing_lf": true
+    },
+    "the_private_life_of_sherlock_holmes": {
+      "retain_all_records": true,
+      "trailing_lf": true
+    },
+    "dog_day_afternoon": {
+      "retain_first_n_records": 69,
+      "terminal_content_keep_through_marker": "\\nTHE END",
+      "trailing_lf": false
+    },
+    "apocalypse_now": {
+      "retain_first_n_records": 60,
+      "terminal_content_keep_through_marker": "\\nTHE END",
+      "trailing_lf": false
+    },
+    "drag_me_to_hell": {
+      "retain_all_records": true,
+      "trailing_lf": false
+    },
+    "up_2009": {
+      "retain_all_records": true,
+      "trailing_lf": false
+    },
+    "darkman": {
+      "retain_all_records": true,
+      "trailing_lf": false
+    },
+    "do_the_right_thing": {
+      "retain_all_records": true,
+      "trailing_lf": false
+    },
+    "the_white_ribbon": {
+      "retain_all_records": true,
+      "terminal_content_drop_from_marker": "\\n\\n\\tWhite Ribbon, The",
+      "trailing_lf": false
+    }
+  },
+  "expected_output_sha256": {
+    "chasing_amy": "sha256:ef03972add4a8c7fb77575424f5ca1c728a5d72fa2b2b91b4b2ba89a5395d34d",
+    "ghostbusters_ii": "sha256:c33bec4add0d90a5eebc7069f0290cf1f9ad2adfb2cdf8b986f9a031229627f5",
+    "the_private_life_of_sherlock_holmes": "sha256:9e2cd3f5555d153fffd8d7a84704b5a31a7b1cb7904d6046b1ff28cda49a7a10",
+    "dog_day_afternoon": "sha256:cd687208bd61d135886509a114ca3742c9576bcf6f2835f6129c94baf8a2bfb8",
+    "apocalypse_now": "sha256:6a9fc5ef3907ac795bc0434b5fac5c8d905e7494a6440ce58b6511589aff0a64",
+    "drag_me_to_hell": "sha256:cbb7179864a0f79df7026397a9a3a0840a195ed756c74aaedbc5721dc2d548e4",
+    "up_2009": "sha256:c06f50d742f329d6381c5656ab7716caa88690ab49a8608736af88542e605918",
+    "darkman": "sha256:0dc3a78c2568af23283328fd74d7b333462190243df4363533cdef1fc60d5c54",
+    "do_the_right_thing": "sha256:3912c4b863b78c35044293f6377ce0b561108b848cee1a6feec75dadb65a86ed",
+    "the_white_ribbon": "sha256:89b29fbe35b4af8ec4c0f374fa76d063873e6cae1099ae9b29d7f63b170432e6"
+  }
+}

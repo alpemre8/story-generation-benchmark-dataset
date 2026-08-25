@@ -1,0 +1,25 @@
+{
+  "feature_set_id": "fs_qwen25_7b_q4km_mc1_1_fev1_4_current_10_films_balanced_v1",
+  "contract_id": "storygen.feature-set",
+  "contract_version": "1.4",
+  "block_version": "1.4.0",
+  "original_feature_set_manifest_sha256": "sha256:3b656f6a8ce2a1c9a6df4cae3a6dd46d48dec09b3e14c673465c3bc52e625d77",
+  "measurement_protocol_hash": "sha256:3c0297d30951838b583ae1ef5cf6795077191f3bc3280c4494e132d6fc9a6e6b",
+  "film_count": 10,
+  "scene_count": 938,
+  "measurement_failure_count": 0,
+  "scheduler": {
+    "scheduler": "global-scene-round-robin-v1",
+    "job_count": 938,
+    "concurrency": 8,
+    "peak_active_requests": 8,
+    "measurement_failures": 0,
+    "cache_hits": 0,
+    "elapsed_seconds": 368.791034,
+    "throughput_scenes_per_second": 2.543446
+  },
+  "created_at": "2026-08-06T19:18:57.899908+00:00",
+  "verification_mode": "direct_canonical_extraction_v1_4",
+  "attestation_verified": true,
+  "privacy_note": "Absolute local paths, localhost endpoints, and telemetry paths were removed from the public release."
+}

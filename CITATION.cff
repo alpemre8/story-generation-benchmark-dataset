@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this dataset or benchmark, please cite the associated paper and this dataset release."
+title: "Story Generation Benchmark Dataset"
+type: dataset
+version: 1.0.0
+date-released: 2026-08-25
+authors:
+  - family-names: Karaahmet
+    given-names: Alp Emre
+abstract: "Screenplay-text-free public release containing 938 per-scene five-axis narrative feature annotations, a 240-task controlled rewriting benchmark, reliability measurements, and source/provenance metadata for a 10-film experimental corpus."

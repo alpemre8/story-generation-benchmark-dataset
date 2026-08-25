@@ -1,0 +1,1378 @@
+[
+  {
+    "base_interval_id": "v5_B0001",
+    "source_film_id": "chasing_amy",
+    "reference_film_id": "do_the_right_thing",
+    "pair_key": "chasing_amy->do_the_right_thing",
+    "slot_id": "S_short_cross",
+    "interval_type": "short",
+    "source_scene_ids": [
+      "scene_010",
+      "scene_011",
+      "scene_012",
+      "scene_013",
+      "scene_014"
+    ],
+    "reference_scene_ids": [
+      "scene_060",
+      "scene_061",
+      "scene_062",
+      "scene_063",
+      "scene_064"
+    ]
+  },
+  {
+    "base_interval_id": "v5_B0002",
+    "source_film_id": "chasing_amy",
+    "reference_film_id": "do_the_right_thing",
+    "pair_key": "chasing_amy->do_the_right_thing",
+    "slot_id": "M_medium_cross",
+    "interval_type": "medium",
+    "source_scene_ids": [
+      "scene_022",
+      "scene_023",
+      "scene_024",
+      "scene_025",
+      "scene_026",
+      "scene_027",
+      "scene_028",
+      "scene_029"
+    ],
+    "reference_scene_ids": [
+      "scene_034",
+      "scene_035",
+      "scene_036",
+      "scene_037",
+      "scene_038",
+      "scene_039",
+      "scene_040",
+      "scene_041"
+    ]
+  },
+  {
+    "base_interval_id": "v5_B0003",
+    "source_film_id": "do_the_right_thing",
+    "reference_film_id": "chasing_amy",
+    "pair_key": "do_the_right_thing->chasing_amy",
+    "slot_id": "S_short_cross",
+    "interval_type": "short",
+    "source_scene_ids": [
+      "scene_028",
+      "scene_029",
+      "scene_030",
+      "scene_031",
+      "scene_032"
+    ],
+    "reference_scene_ids": [
+      "scene_020",
+      "scene_021",
+      "scene_022",
+      "scene_023",
+      "scene_024"
+    ]
+  },
+  {
+    "base_interval_id": "v5_B0004",
+    "source_film_id": "do_the_right_thing",
+    "reference_film_id": "chasing_amy",
+    "pair_key": "do_the_right_thing->chasing_amy",
+    "slot_id": "L_long_cross",
+    "interval_type": "long",
+    "source_scene_ids": [
+      "scene_015",
+      "scene_016",
+      "scene_017",
+      "scene_018",
+      "scene_019",
+      "scene_020",
+      "scene_021",
+      "scene_022",
+      "scene_023",
+      "scene_024",
+      "scene_025",
+      "scene_026"
+    ],
+    "reference_scene_ids": [
+      "scene_017",
+      "scene_018",
+      "scene_019",
+      "scene_020",
+      "scene_021",
+      "scene_022",
+      "scene_023",
+      "scene_024",
+      "scene_025",
+      "scene_026",
+      "scene_027",
+      "scene_028"
+    ]
+  },
+  {
+    "base_interval_id": "v5_B0005",
+    "source_film_id": "chasing_amy",
+    "reference_film_id": "dog_day_afternoon",
+    "pair_key": "chasing_amy->dog_day_afternoon",
+    "slot_id": "M_medium_cross",
+    "interval_type": "medium",
+    "source_scene_ids": [
+      "scene_021",
+      "scene_022",
+      "scene_023",
+      "scene_024",
+      "scene_025",
+      "scene_026",
+      "scene_027",
+      "scene_028"
+    ],
+    "reference_scene_ids": [
+      "scene_020",
+      "scene_021",
+      "scene_022",
+      "scene_023",
+      "scene_024",
+      "scene_025",
+      "scene_026",
+      "scene_027"
+    ]
+  },
+  {
+    "base_interval_id": "v5_B0006",
+    "source_film_id": "chasing_amy",
+    "reference_film_id": "dog_day_afternoon",
+    "pair_key": "chasing_amy->dog_day_afternoon",
+    "slot_id": "L_long_cross",
+    "interval_type": "long",
+    "source_scene_ids": [
+      "scene_003",
+      "scene_004",
+      "scene_005",
+      "scene_006",
+      "scene_007",
+      "scene_008",
+      "scene_009",
+      "scene_010",
+      "scene_011",
+      "scene_012",
+      "scene_013",
+      "scene_014"
+    ],
+    "reference_scene_ids": [
+      "scene_045",
+      "scene_046",
+      "scene_047",
+      "scene_048",
+      "scene_049",
+      "scene_050",
+      "scene_051",
+      "scene_052",
+      "scene_053",
+      "scene_054",
+      "scene_055",
+      "scene_056"
+    ]
+  },
+  {
+    "base_interval_id": "v5_B0007",
+    "source_film_id": "dog_day_afternoon",
+    "reference_film_id": "chasing_amy",
+    "pair_key": "dog_day_afternoon->chasing_amy",
+    "slot_id": "S_short_cross",
+    "interval_type": "short",
+    "source_scene_ids": [
+      "scene_021",
+      "scene_022",
+      "scene_023",
+      "scene_024",
+      "scene_025"
+    ],
+    "reference_scene_ids": [
+      "scene_017",
+      "scene_018",
+      "scene_019",
+      "scene_020",
+      "scene_021"
+    ]
+  },
+  {
+    "base_interval_id": "v5_B0008",
+    "source_film_id": "dog_day_afternoon",
+    "reference_film_id": "chasing_amy",
+    "pair_key": "dog_day_afternoon->chasing_amy",
+    "slot_id": "M_medium_cross",
+    "interval_type": "medium",
+    "source_scene_ids": [
+      "scene_043",
+      "scene_044",
+      "scene_045",
+      "scene_046",
+      "scene_047",
+      "scene_048",
+      "scene_049",
+      "scene_050"
+    ],
+    "reference_scene_ids": [
+      "scene_011",
+      "scene_012",
+      "scene_013",
+      "scene_014",
+      "scene_015",
+      "scene_016",
+      "scene_017",
+      "scene_018"
+    ]
+  },
+  {
+    "base_interval_id": "v5_B0009",
+    "source_film_id": "chasing_amy",
+    "reference_film_id": "up_2009",
+    "pair_key": "chasing_amy->up_2009",
+    "slot_id": "S_short_cross",
+    "interval_type": "short",
+    "source_scene_ids": [
+      "scene_009",
+      "scene_010",
+      "scene_011",
+      "scene_012",
+      "scene_013"
+    ],
+    "reference_scene_ids": [
+      "scene_111",
+      "scene_112",
+      "scene_113",
+      "scene_114",
+      "scene_115"
+    ]
+  },
+  {
+    "base_interval_id": "v5_B0010",
+    "source_film_id": "chasing_amy",
+    "reference_film_id": "up_2009",
+    "pair_key": "chasing_amy->up_2009",
+    "slot_id": "L_long_cross",
+    "interval_type": "long",
+    "source_scene_ids": [
+      "scene_005",
+      "scene_006",
+      "scene_007",
+      "scene_008",
+      "scene_009",
+      "scene_010",
+      "scene_011",
+      "scene_012",
+      "scene_013",
+      "scene_014",
+      "scene_015",
+      "scene_016"
+    ],
+    "reference_scene_ids": [
+      "scene_134",
+      "scene_135",
+      "scene_136",
+      "scene_137",
+      "scene_138",
+      "scene_139",
+      "scene_140",
+      "scene_141",
+      "scene_142",
+      "scene_143",
+      "scene_144",
+      "scene_145"
+    ]
+  },
+  {
+    "base_interval_id": "v5_B0011",
+    "source_film_id": "up_2009",
+    "reference_film_id": "chasing_amy",
+    "pair_key": "up_2009->chasing_amy",
+    "slot_id": "M_medium_cross",
+    "interval_type": "medium",
+    "source_scene_ids": [
+      "scene_124",
+      "scene_125",
+      "scene_126",
+      "scene_127",
+      "scene_128",
+      "scene_129",
+      "scene_130",
+      "scene_131"
+    ],
+    "reference_scene_ids": [
+      "scene_012",
+      "scene_013",
+      "scene_014",
+      "scene_015",
+      "scene_016",
+      "scene_017",
+      "scene_018",
+      "scene_019"
+    ]
+  },
+  {
+    "base_interval_id": "v5_B0012",
+    "source_film_id": "up_2009",
+    "reference_film_id": "chasing_amy",
+    "pair_key": "up_2009->chasing_amy",
+    "slot_id": "L_long_cross",
+    "interval_type": "long",
+    "source_scene_ids": [
+      "scene_032",
+      "scene_033",
+      "scene_034",
+      "scene_035",
+      "scene_036",
+      "scene_037",
+      "scene_038",
+      "scene_039",
+      "scene_040",
+      "scene_041",
+      "scene_042",
+      "scene_043"
+    ],
+    "reference_scene_ids": [
+      "scene_018",
+      "scene_019",
+      "scene_020",
+      "scene_021",
+      "scene_022",
+      "scene_023",
+      "scene_024",
+      "scene_025",
+      "scene_026",
+      "scene_027",
+      "scene_028",
+      "scene_029"
+    ]
+  },
+  {
+    "base_interval_id": "v5_B0013",
+    "source_film_id": "ghostbusters_ii",
+    "reference_film_id": "drag_me_to_hell",
+    "pair_key": "ghostbusters_ii->drag_me_to_hell",
+    "slot_id": "S_short_cross",
+    "interval_type": "short",
+    "source_scene_ids": [
+      "scene_045",
+      "scene_046",
+      "scene_047",
+      "scene_048",
+      "scene_049"
+    ],
+    "reference_scene_ids": [
+      "scene_042",
+      "scene_043",
+      "scene_044",
+      "scene_045",
+      "scene_046"
+    ]
+  },
+  {
+    "base_interval_id": "v5_B0014",
+    "source_film_id": "ghostbusters_ii",
+    "reference_film_id": "drag_me_to_hell",
+    "pair_key": "ghostbusters_ii->drag_me_to_hell",
+    "slot_id": "M_medium_cross",
+    "interval_type": "medium",
+    "source_scene_ids": [
+      "scene_107",
+      "scene_108",
+      "scene_109",
+      "scene_110",
+      "scene_111",
+      "scene_112",
+      "scene_113",
+      "scene_114"
+    ],
+    "reference_scene_ids": [
+      "scene_024",
+      "scene_025",
+      "scene_026",
+      "scene_027",
+      "scene_028",
+      "scene_029",
+      "scene_030",
+      "scene_031"
+    ]
+  },
+  {
+    "base_interval_id": "v5_B0015",
+    "source_film_id": "drag_me_to_hell",
+    "reference_film_id": "ghostbusters_ii",
+    "pair_key": "drag_me_to_hell->ghostbusters_ii",
+    "slot_id": "S_short_cross",
+    "interval_type": "short",
+    "source_scene_ids": [
+      "scene_019",
+      "scene_020",
+      "scene_021",
+      "scene_022",
+      "scene_023"
+    ],
+    "reference_scene_ids": [
+      "scene_097",
+      "scene_098",
+      "scene_099",
+      "scene_100",
+      "scene_101"
+    ]
+  },
+  {
+    "base_interval_id": "v5_B0016",
+    "source_film_id": "drag_me_to_hell",
+    "reference_film_id": "ghostbusters_ii",
+    "pair_key": "drag_me_to_hell->ghostbusters_ii",
+    "slot_id": "L_long_cross",
+    "interval_type": "long",
+    "source_scene_ids": [
+      "scene_012",
+      "scene_013",
+      "scene_014",
+      "scene_015",
+      "scene_016",
+      "scene_017",
+      "scene_018",
+      "scene_019",
+      "scene_020",
+      "scene_021",
+      "scene_022",
+      "scene_023"
+    ],
+    "reference_scene_ids": [
+      "scene_114",
+      "scene_115",
+      "scene_116",
+      "scene_117",
+      "scene_118",
+      "scene_119",
+      "scene_120",
+      "scene_121",
+      "scene_122",
+      "scene_123",
+      "scene_124",
+      "scene_125"
+    ]
+  },
+  {
+    "base_interval_id": "v5_B0017",
+    "source_film_id": "ghostbusters_ii",
+    "reference_film_id": "darkman",
+    "pair_key": "ghostbusters_ii->darkman",
+    "slot_id": "M_medium_cross",
+    "interval_type": "medium",
+    "source_scene_ids": [
+      "scene_106",
+      "scene_107",
+      "scene_108",
+      "scene_109",
+      "scene_110",
+      "scene_111",
+      "scene_112",
+      "scene_113"
+    ],
+    "reference_scene_ids": [
+      "scene_033",
+      "scene_034",
+      "scene_035",
+      "scene_036",
+      "scene_037",
+      "scene_038",
+      "scene_039",
+      "scene_040"
+    ]
+  },
+  {
+    "base_interval_id": "v5_B0018",
+    "source_film_id": "ghostbusters_ii",
+    "reference_film_id": "darkman",
+    "pair_key": "ghostbusters_ii->darkman",
+    "slot_id": "L_long_cross",
+    "interval_type": "long",
+    "source_scene_ids": [
+      "scene_028",
+      "scene_029",
+      "scene_030",
+      "scene_031",
+      "scene_032",
+      "scene_033",
+      "scene_034",
+      "scene_035",
+      "scene_036",
+      "scene_037",
+      "scene_038",
+      "scene_039"
+    ],
+    "reference_scene_ids": [
+      "scene_072",
+      "scene_073",
+      "scene_074",
+      "scene_075",
+      "scene_076",
+      "scene_077",
+      "scene_078",
+      "scene_079",
+      "scene_080",
+      "scene_081",
+      "scene_082",
+      "scene_083"
+    ]
+  },
+  {
+    "base_interval_id": "v5_B0019",
+    "source_film_id": "darkman",
+    "reference_film_id": "ghostbusters_ii",
+    "pair_key": "darkman->ghostbusters_ii",
+    "slot_id": "S_short_cross",
+    "interval_type": "short",
+    "source_scene_ids": [
+      "scene_026",
+      "scene_027",
+      "scene_028",
+      "scene_029",
+      "scene_030"
+    ],
+    "reference_scene_ids": [
+      "scene_093",
+      "scene_094",
+      "scene_095",
+      "scene_096",
+      "scene_097"
+    ]
+  },
+  {
+    "base_interval_id": "v5_B0020",
+    "source_film_id": "darkman",
+    "reference_film_id": "ghostbusters_ii",
+    "pair_key": "darkman->ghostbusters_ii",
+    "slot_id": "M_medium_cross",
+    "interval_type": "medium",
+    "source_scene_ids": [
+      "scene_068",
+      "scene_069",
+      "scene_070",
+      "scene_071",
+      "scene_072",
+      "scene_073",
+      "scene_074",
+      "scene_075"
+    ],
+    "reference_scene_ids": [
+      "scene_049",
+      "scene_050",
+      "scene_051",
+      "scene_052",
+      "scene_053",
+      "scene_054",
+      "scene_055",
+      "scene_056"
+    ]
+  },
+  {
+    "base_interval_id": "v5_B0021",
+    "source_film_id": "ghostbusters_ii",
+    "reference_film_id": "up_2009",
+    "pair_key": "ghostbusters_ii->up_2009",
+    "slot_id": "S_short_cross",
+    "interval_type": "short",
+    "source_scene_ids": [
+      "scene_045",
+      "scene_046",
+      "scene_047",
+      "scene_048",
+      "scene_049"
+    ],
+    "reference_scene_ids": [
+      "scene_108",
+      "scene_109",
+      "scene_110",
+      "scene_111",
+      "scene_112"
+    ]
+  },
+  {
+    "base_interval_id": "v5_B0022",
+    "source_film_id": "ghostbusters_ii",
+    "reference_film_id": "up_2009",
+    "pair_key": "ghostbusters_ii->up_2009",
+    "slot_id": "L_long_cross",
+    "interval_type": "long",
+    "source_scene_ids": [
+      "scene_029",
+      "scene_030",
+      "scene_031",
+      "scene_032",
+      "scene_033",
+      "scene_034",
+      "scene_035",
+      "scene_036",
+      "scene_037",
+      "scene_038",
+      "scene_039",
+      "scene_040"
+    ],
+    "reference_scene_ids": [
+      "scene_135",
+      "scene_136",
+      "scene_137",
+      "scene_138",
+      "scene_139",
+      "scene_140",
+      "scene_141",
+      "scene_142",
+      "scene_143",
+      "scene_144",
+      "scene_145",
+      "scene_146"
+    ]
+  },
+  {
+    "base_interval_id": "v5_B0023",
+    "source_film_id": "up_2009",
+    "reference_film_id": "ghostbusters_ii",
+    "pair_key": "up_2009->ghostbusters_ii",
+    "slot_id": "M_medium_cross",
+    "interval_type": "medium",
+    "source_scene_ids": [
+      "scene_124",
+      "scene_125",
+      "scene_126",
+      "scene_127",
+      "scene_128",
+      "scene_129",
+      "scene_130",
+      "scene_131"
+    ],
+    "reference_scene_ids": [
+      "scene_053",
+      "scene_054",
+      "scene_055",
+      "scene_056",
+      "scene_057",
+      "scene_058",
+      "scene_059",
+      "scene_060"
+    ]
+  },
+  {
+    "base_interval_id": "v5_B0024",
+    "source_film_id": "up_2009",
+    "reference_film_id": "ghostbusters_ii",
+    "pair_key": "up_2009->ghostbusters_ii",
+    "slot_id": "L_long_cross",
+    "interval_type": "long",
+    "source_scene_ids": [
+      "scene_033",
+      "scene_034",
+      "scene_035",
+      "scene_036",
+      "scene_037",
+      "scene_038",
+      "scene_039",
+      "scene_040",
+      "scene_041",
+      "scene_042",
+      "scene_043",
+      "scene_044"
+    ],
+    "reference_scene_ids": [
+      "scene_115",
+      "scene_116",
+      "scene_117",
+      "scene_118",
+      "scene_119",
+      "scene_120",
+      "scene_121",
+      "scene_122",
+      "scene_123",
+      "scene_124",
+      "scene_125",
+      "scene_126"
+    ]
+  },
+  {
+    "base_interval_id": "v5_B0025",
+    "source_film_id": "the_private_life_of_sherlock_holmes",
+    "reference_film_id": "dog_day_afternoon",
+    "pair_key": "the_private_life_of_sherlock_holmes->dog_day_afternoon",
+    "slot_id": "S_short_cross",
+    "interval_type": "short",
+    "source_scene_ids": [
+      "scene_024",
+      "scene_025",
+      "scene_026",
+      "scene_027",
+      "scene_028"
+    ],
+    "reference_scene_ids": [
+      "scene_042",
+      "scene_043",
+      "scene_044",
+      "scene_045",
+      "scene_046"
+    ]
+  },
+  {
+    "base_interval_id": "v5_B0026",
+    "source_film_id": "the_private_life_of_sherlock_holmes",
+    "reference_film_id": "dog_day_afternoon",
+    "pair_key": "the_private_life_of_sherlock_holmes->dog_day_afternoon",
+    "slot_id": "M_medium_cross",
+    "interval_type": "medium",
+    "source_scene_ids": [
+      "scene_060",
+      "scene_061",
+      "scene_062",
+      "scene_063",
+      "scene_064",
+      "scene_065",
+      "scene_066",
+      "scene_067"
+    ],
+    "reference_scene_ids": [
+      "scene_020",
+      "scene_021",
+      "scene_022",
+      "scene_023",
+      "scene_024",
+      "scene_025",
+      "scene_026",
+      "scene_027"
+    ]
+  },
+  {
+    "base_interval_id": "v5_B0027",
+    "source_film_id": "dog_day_afternoon",
+    "reference_film_id": "the_private_life_of_sherlock_holmes",
+    "pair_key": "dog_day_afternoon->the_private_life_of_sherlock_holmes",
+    "slot_id": "S_short_cross",
+    "interval_type": "short",
+    "source_scene_ids": [
+      "scene_020",
+      "scene_021",
+      "scene_022",
+      "scene_023",
+      "scene_024"
+    ],
+    "reference_scene_ids": [
+      "scene_052",
+      "scene_053",
+      "scene_054",
+      "scene_055",
+      "scene_056"
+    ]
+  },
+  {
+    "base_interval_id": "v5_B0028",
+    "source_film_id": "dog_day_afternoon",
+    "reference_film_id": "the_private_life_of_sherlock_holmes",
+    "pair_key": "dog_day_afternoon->the_private_life_of_sherlock_holmes",
+    "slot_id": "L_long_cross",
+    "interval_type": "long",
+    "source_scene_ids": [
+      "scene_012",
+      "scene_013",
+      "scene_014",
+      "scene_015",
+      "scene_016",
+      "scene_017",
+      "scene_018",
+      "scene_019",
+      "scene_020",
+      "scene_021",
+      "scene_022",
+      "scene_023"
+    ],
+    "reference_scene_ids": [
+      "scene_062",
+      "scene_063",
+      "scene_064",
+      "scene_065",
+      "scene_066",
+      "scene_067",
+      "scene_068",
+      "scene_069",
+      "scene_070",
+      "scene_071",
+      "scene_072",
+      "scene_073"
+    ]
+  },
+  {
+    "base_interval_id": "v5_B0029",
+    "source_film_id": "the_private_life_of_sherlock_holmes",
+    "reference_film_id": "the_white_ribbon",
+    "pair_key": "the_private_life_of_sherlock_holmes->the_white_ribbon",
+    "slot_id": "M_medium_cross",
+    "interval_type": "medium",
+    "source_scene_ids": [
+      "scene_058",
+      "scene_059",
+      "scene_060",
+      "scene_061",
+      "scene_062",
+      "scene_063",
+      "scene_064",
+      "scene_065"
+    ],
+    "reference_scene_ids": [
+      "scene_023",
+      "scene_024",
+      "scene_025",
+      "scene_026",
+      "scene_027",
+      "scene_028",
+      "scene_029",
+      "scene_030"
+    ]
+  },
+  {
+    "base_interval_id": "v5_B0030",
+    "source_film_id": "the_private_life_of_sherlock_holmes",
+    "reference_film_id": "the_white_ribbon",
+    "pair_key": "the_private_life_of_sherlock_holmes->the_white_ribbon",
+    "slot_id": "L_long_cross",
+    "interval_type": "long",
+    "source_scene_ids": [
+      "scene_014",
+      "scene_015",
+      "scene_016",
+      "scene_017",
+      "scene_018",
+      "scene_019",
+      "scene_020",
+      "scene_021",
+      "scene_022",
+      "scene_023",
+      "scene_024",
+      "scene_025"
+    ],
+    "reference_scene_ids": [
+      "scene_052",
+      "scene_053",
+      "scene_054",
+      "scene_055",
+      "scene_056",
+      "scene_057",
+      "scene_058",
+      "scene_059",
+      "scene_060",
+      "scene_061",
+      "scene_062",
+      "scene_063"
+    ]
+  },
+  {
+    "base_interval_id": "v5_B0031",
+    "source_film_id": "the_white_ribbon",
+    "reference_film_id": "the_private_life_of_sherlock_holmes",
+    "pair_key": "the_white_ribbon->the_private_life_of_sherlock_holmes",
+    "slot_id": "S_short_cross",
+    "interval_type": "short",
+    "source_scene_ids": [
+      "scene_022",
+      "scene_023",
+      "scene_024",
+      "scene_025",
+      "scene_026"
+    ],
+    "reference_scene_ids": [
+      "scene_051",
+      "scene_052",
+      "scene_053",
+      "scene_054",
+      "scene_055"
+    ]
+  },
+  {
+    "base_interval_id": "v5_B0032",
+    "source_film_id": "the_white_ribbon",
+    "reference_film_id": "the_private_life_of_sherlock_holmes",
+    "pair_key": "the_white_ribbon->the_private_life_of_sherlock_holmes",
+    "slot_id": "M_medium_cross",
+    "interval_type": "medium",
+    "source_scene_ids": [
+      "scene_049",
+      "scene_050",
+      "scene_051",
+      "scene_052",
+      "scene_053",
+      "scene_054",
+      "scene_055",
+      "scene_056"
+    ],
+    "reference_scene_ids": [
+      "scene_028",
+      "scene_029",
+      "scene_030",
+      "scene_031",
+      "scene_032",
+      "scene_033",
+      "scene_034",
+      "scene_035"
+    ]
+  },
+  {
+    "base_interval_id": "v5_B0033",
+    "source_film_id": "dog_day_afternoon",
+    "reference_film_id": "do_the_right_thing",
+    "pair_key": "dog_day_afternoon->do_the_right_thing",
+    "slot_id": "S_short_cross",
+    "interval_type": "short",
+    "source_scene_ids": [
+      "scene_019",
+      "scene_020",
+      "scene_021",
+      "scene_022",
+      "scene_023"
+    ],
+    "reference_scene_ids": [
+      "scene_058",
+      "scene_059",
+      "scene_060",
+      "scene_061",
+      "scene_062"
+    ]
+  },
+  {
+    "base_interval_id": "v5_B0034",
+    "source_film_id": "dog_day_afternoon",
+    "reference_film_id": "do_the_right_thing",
+    "pair_key": "dog_day_afternoon->do_the_right_thing",
+    "slot_id": "L_long_cross",
+    "interval_type": "long",
+    "source_scene_ids": [
+      "scene_013",
+      "scene_014",
+      "scene_015",
+      "scene_016",
+      "scene_017",
+      "scene_018",
+      "scene_019",
+      "scene_020",
+      "scene_021",
+      "scene_022",
+      "scene_023",
+      "scene_024"
+    ],
+    "reference_scene_ids": [
+      "scene_069",
+      "scene_070",
+      "scene_071",
+      "scene_072",
+      "scene_073",
+      "scene_074",
+      "scene_075",
+      "scene_076",
+      "scene_077",
+      "scene_078",
+      "scene_079",
+      "scene_080"
+    ]
+  },
+  {
+    "base_interval_id": "v5_B0035",
+    "source_film_id": "do_the_right_thing",
+    "reference_film_id": "dog_day_afternoon",
+    "pair_key": "do_the_right_thing->dog_day_afternoon",
+    "slot_id": "M_medium_cross",
+    "interval_type": "medium",
+    "source_scene_ids": [
+      "scene_068",
+      "scene_069",
+      "scene_070",
+      "scene_071",
+      "scene_072",
+      "scene_073",
+      "scene_074",
+      "scene_075"
+    ],
+    "reference_scene_ids": [
+      "scene_024",
+      "scene_025",
+      "scene_026",
+      "scene_027",
+      "scene_028",
+      "scene_029",
+      "scene_030",
+      "scene_031"
+    ]
+  },
+  {
+    "base_interval_id": "v5_B0036",
+    "source_film_id": "do_the_right_thing",
+    "reference_film_id": "dog_day_afternoon",
+    "pair_key": "do_the_right_thing->dog_day_afternoon",
+    "slot_id": "L_long_cross",
+    "interval_type": "long",
+    "source_scene_ids": [
+      "scene_017",
+      "scene_018",
+      "scene_019",
+      "scene_020",
+      "scene_021",
+      "scene_022",
+      "scene_023",
+      "scene_024",
+      "scene_025",
+      "scene_026",
+      "scene_027",
+      "scene_028"
+    ],
+    "reference_scene_ids": [
+      "scene_047",
+      "scene_048",
+      "scene_049",
+      "scene_050",
+      "scene_051",
+      "scene_052",
+      "scene_053",
+      "scene_054",
+      "scene_055",
+      "scene_056",
+      "scene_057",
+      "scene_058"
+    ]
+  },
+  {
+    "base_interval_id": "v5_B0037",
+    "source_film_id": "apocalypse_now",
+    "reference_film_id": "darkman",
+    "pair_key": "apocalypse_now->darkman",
+    "slot_id": "S_short_cross",
+    "interval_type": "short",
+    "source_scene_ids": [
+      "scene_015",
+      "scene_016",
+      "scene_017",
+      "scene_018",
+      "scene_019"
+    ],
+    "reference_scene_ids": [
+      "scene_062",
+      "scene_063",
+      "scene_064",
+      "scene_065",
+      "scene_066"
+    ]
+  },
+  {
+    "base_interval_id": "v5_B0038",
+    "source_film_id": "apocalypse_now",
+    "reference_film_id": "darkman",
+    "pair_key": "apocalypse_now->darkman",
+    "slot_id": "M_medium_cross",
+    "interval_type": "medium",
+    "source_scene_ids": [
+      "scene_040",
+      "scene_041",
+      "scene_042",
+      "scene_043",
+      "scene_044",
+      "scene_045",
+      "scene_046",
+      "scene_047"
+    ],
+    "reference_scene_ids": [
+      "scene_030",
+      "scene_031",
+      "scene_032",
+      "scene_033",
+      "scene_034",
+      "scene_035",
+      "scene_036",
+      "scene_037"
+    ]
+  },
+  {
+    "base_interval_id": "v5_B0039",
+    "source_film_id": "darkman",
+    "reference_film_id": "apocalypse_now",
+    "pair_key": "darkman->apocalypse_now",
+    "slot_id": "S_short_cross",
+    "interval_type": "short",
+    "source_scene_ids": [
+      "scene_030",
+      "scene_031",
+      "scene_032",
+      "scene_033",
+      "scene_034"
+    ],
+    "reference_scene_ids": [
+      "scene_034",
+      "scene_035",
+      "scene_036",
+      "scene_037",
+      "scene_038"
+    ]
+  },
+  {
+    "base_interval_id": "v5_B0040",
+    "source_film_id": "darkman",
+    "reference_film_id": "apocalypse_now",
+    "pair_key": "darkman->apocalypse_now",
+    "slot_id": "L_long_cross",
+    "interval_type": "long",
+    "source_scene_ids": [
+      "scene_019",
+      "scene_020",
+      "scene_021",
+      "scene_022",
+      "scene_023",
+      "scene_024",
+      "scene_025",
+      "scene_026",
+      "scene_027",
+      "scene_028",
+      "scene_029",
+      "scene_030"
+    ],
+    "reference_scene_ids": [
+      "scene_037",
+      "scene_038",
+      "scene_039",
+      "scene_040",
+      "scene_041",
+      "scene_042",
+      "scene_043",
+      "scene_044",
+      "scene_045",
+      "scene_046",
+      "scene_047",
+      "scene_048"
+    ]
+  },
+  {
+    "base_interval_id": "v5_B0041",
+    "source_film_id": "apocalypse_now",
+    "reference_film_id": "the_white_ribbon",
+    "pair_key": "apocalypse_now->the_white_ribbon",
+    "slot_id": "M_medium_cross",
+    "interval_type": "medium",
+    "source_scene_ids": [
+      "scene_036",
+      "scene_037",
+      "scene_038",
+      "scene_039",
+      "scene_040",
+      "scene_041",
+      "scene_042",
+      "scene_043"
+    ],
+    "reference_scene_ids": [
+      "scene_022",
+      "scene_023",
+      "scene_024",
+      "scene_025",
+      "scene_026",
+      "scene_027",
+      "scene_028",
+      "scene_029"
+    ]
+  },
+  {
+    "base_interval_id": "v5_B0042",
+    "source_film_id": "apocalypse_now",
+    "reference_film_id": "the_white_ribbon",
+    "pair_key": "apocalypse_now->the_white_ribbon",
+    "slot_id": "L_long_cross",
+    "interval_type": "long",
+    "source_scene_ids": [
+      "scene_009",
+      "scene_010",
+      "scene_011",
+      "scene_012",
+      "scene_013",
+      "scene_014",
+      "scene_015",
+      "scene_016",
+      "scene_017",
+      "scene_018",
+      "scene_019",
+      "scene_020"
+    ],
+    "reference_scene_ids": [
+      "scene_050",
+      "scene_051",
+      "scene_052",
+      "scene_053",
+      "scene_054",
+      "scene_055",
+      "scene_056",
+      "scene_057",
+      "scene_058",
+      "scene_059",
+      "scene_060",
+      "scene_061"
+    ]
+  },
+  {
+    "base_interval_id": "v5_B0043",
+    "source_film_id": "the_white_ribbon",
+    "reference_film_id": "apocalypse_now",
+    "pair_key": "the_white_ribbon->apocalypse_now",
+    "slot_id": "S_short_cross",
+    "interval_type": "short",
+    "source_scene_ids": [
+      "scene_021",
+      "scene_022",
+      "scene_023",
+      "scene_024",
+      "scene_025"
+    ],
+    "reference_scene_ids": [
+      "scene_034",
+      "scene_035",
+      "scene_036",
+      "scene_037",
+      "scene_038"
+    ]
+  },
+  {
+    "base_interval_id": "v5_B0044",
+    "source_film_id": "the_white_ribbon",
+    "reference_film_id": "apocalypse_now",
+    "pair_key": "the_white_ribbon->apocalypse_now",
+    "slot_id": "M_medium_cross",
+    "interval_type": "medium",
+    "source_scene_ids": [
+      "scene_048",
+      "scene_049",
+      "scene_050",
+      "scene_051",
+      "scene_052",
+      "scene_053",
+      "scene_054",
+      "scene_055"
+    ],
+    "reference_scene_ids": [
+      "scene_017",
+      "scene_018",
+      "scene_019",
+      "scene_020",
+      "scene_021",
+      "scene_022",
+      "scene_023",
+      "scene_024"
+    ]
+  },
+  {
+    "base_interval_id": "v5_B0045",
+    "source_film_id": "apocalypse_now",
+    "reference_film_id": "drag_me_to_hell",
+    "pair_key": "apocalypse_now->drag_me_to_hell",
+    "slot_id": "S_short_cross",
+    "interval_type": "short",
+    "source_scene_ids": [
+      "scene_016",
+      "scene_017",
+      "scene_018",
+      "scene_019",
+      "scene_020"
+    ],
+    "reference_scene_ids": [
+      "scene_043",
+      "scene_044",
+      "scene_045",
+      "scene_046",
+      "scene_047"
+    ]
+  },
+  {
+    "base_interval_id": "v5_B0046",
+    "source_film_id": "apocalypse_now",
+    "reference_film_id": "drag_me_to_hell",
+    "pair_key": "apocalypse_now->drag_me_to_hell",
+    "slot_id": "L_long_cross",
+    "interval_type": "long",
+    "source_scene_ids": [
+      "scene_012",
+      "scene_013",
+      "scene_014",
+      "scene_015",
+      "scene_016",
+      "scene_017",
+      "scene_018",
+      "scene_019",
+      "scene_020",
+      "scene_021",
+      "scene_022",
+      "scene_023"
+    ],
+    "reference_scene_ids": [
+      "scene_049",
+      "scene_050",
+      "scene_051",
+      "scene_052",
+      "scene_053",
+      "scene_054",
+      "scene_055",
+      "scene_056",
+      "scene_057",
+      "scene_058",
+      "scene_059",
+      "scene_060"
+    ]
+  },
+  {
+    "base_interval_id": "v5_B0047",
+    "source_film_id": "drag_me_to_hell",
+    "reference_film_id": "apocalypse_now",
+    "pair_key": "drag_me_to_hell->apocalypse_now",
+    "slot_id": "M_medium_cross",
+    "interval_type": "medium",
+    "source_scene_ids": [
+      "scene_047",
+      "scene_048",
+      "scene_049",
+      "scene_050",
+      "scene_051",
+      "scene_052",
+      "scene_053",
+      "scene_054"
+    ],
+    "reference_scene_ids": [
+      "scene_019",
+      "scene_020",
+      "scene_021",
+      "scene_022",
+      "scene_023",
+      "scene_024",
+      "scene_025",
+      "scene_026"
+    ]
+  },
+  {
+    "base_interval_id": "v5_B0048",
+    "source_film_id": "drag_me_to_hell",
+    "reference_film_id": "apocalypse_now",
+    "pair_key": "drag_me_to_hell->apocalypse_now",
+    "slot_id": "L_long_cross",
+    "interval_type": "long",
+    "source_scene_ids": [
+      "scene_011",
+      "scene_012",
+      "scene_013",
+      "scene_014",
+      "scene_015",
+      "scene_016",
+      "scene_017",
+      "scene_018",
+      "scene_019",
+      "scene_020",
+      "scene_021",
+      "scene_022"
+    ],
+    "reference_scene_ids": [
+      "scene_040",
+      "scene_041",
+      "scene_042",
+      "scene_043",
+      "scene_044",
+      "scene_045",
+      "scene_046",
+      "scene_047",
+      "scene_048",
+      "scene_049",
+      "scene_050",
+      "scene_051"
+    ]
+  }
+]
